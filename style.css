@@ -5,6 +5,10 @@
     height: 10px;
 }
 
+.newBoxColor {
+    background-color: black;
+}
+
 #container {
     display: flex;
     flex-wrap: wrap;
